@@ -1,0 +1,3 @@
+[submodule "vendor/fiplr"]
+	path = vendor/fiplr
+	url = https://github.com/grizzl/fiplr.git
